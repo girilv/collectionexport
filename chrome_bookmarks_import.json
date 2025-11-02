@@ -1,0 +1,967 @@
+{
+  "checksum": "",
+  "roots": {
+    "bookmark_bar": {
+      "children": [
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "100",
+          "name": "Product Sandbox",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "101",
+          "name": "AWS Gen AI app",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "102",
+          "name": "AI agents",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "103",
+          "name": "instruqt",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "104",
+          "name": "AI",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "105",
+          "name": "Upekkha",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "106",
+          "name": "Shared Folders",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "107",
+          "name": "PM startups",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "108",
+          "name": "AWS marketplace and training",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "109",
+          "name": "GCP certification",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "110",
+          "name": "CRM",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "111",
+          "name": "Agentkey",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "112",
+          "name": "SAP BTP",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "113",
+          "name": "growthx",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "114",
+          "name": "Coding",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "115",
+          "name": "Instruqt and Demos",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "116",
+          "name": "MoMs",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "117",
+          "name": "US entity",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "118",
+          "name": "AWS Training partner",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "119",
+          "name": "Growth",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "120",
+          "name": "growthxmailmodo",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "121",
+          "name": "sudarshan kriya",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "122",
+          "name": "Marketing",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "123",
+          "name": "SAP",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "124",
+          "name": "New collection",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "125",
+          "name": "DL renewal",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "126",
+          "name": "suggested by ettore",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "127",
+          "name": "O1 visa",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "128",
+          "name": "New collection",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "129",
+          "name": "TCS RFP",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "130",
+          "name": "Groq cloud",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "131",
+          "name": "Sales weekly updates",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "132",
+          "name": "LMS companies",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "133",
+          "name": "GCP certification",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "134",
+          "name": "Context companies",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "135",
+          "name": "Product management",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "136",
+          "name": "Personal brand",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "137",
+          "name": "Use case wardley",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "138",
+          "name": "Thought Leadership",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "139",
+          "name": "Salesforce project",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "140",
+          "name": "God pages",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "141",
+          "name": "AI articles",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "142",
+          "name": "Marketing automation",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "143",
+          "name": "sandbox competitors",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "144",
+          "name": "AI services",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "145",
+          "name": "books to read",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "146",
+          "name": "Projects List",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "147",
+          "name": "Different types of service companies",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "148",
+          "name": "AI recruitments",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "149",
+          "name": "Projects for Data analytics",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "150",
+          "name": "Vertical AI agent prototype",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "151",
+          "name": "Papers to read",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "152",
+          "name": "Workforce management",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "153",
+          "name": "New collection",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "154",
+          "name": "Like imocha",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "155",
+          "name": "vercel prototypes",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "156",
+          "name": "Namya's universities",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "157",
+          "name": "Free Runners",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "158",
+          "name": "Learning companies for partnership",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "159",
+          "name": "AI tools",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "160",
+          "name": "VCs",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "161",
+          "name": "All AI copilots",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "162",
+          "name": "TeamX",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "163",
+          "name": "LinkedIn Skills Influencers",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "164",
+          "name": "Meeting up follow",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "165",
+          "name": "CrewAI",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "166",
+          "name": "Conferences to attend",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "167",
+          "name": "To connect",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "168",
+          "name": "Hosting events",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "169",
+          "name": "Health",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "170",
+          "name": "Personal ideas",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "171",
+          "name": "Prompt libraries",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "172",
+          "name": "LinkedIn posts",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "173",
+          "name": "Sharepoint my reads",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "174",
+          "name": "Visa vibe coding",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "175",
+          "name": "Phenom",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "176",
+          "name": "Cybersecurity",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "177",
+          "name": "WhyHowWhat",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "178",
+          "name": "Meeting booking",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "179",
+          "name": "Ycombinator",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "180",
+          "name": "Scheduled posts",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "181",
+          "name": "Cisco modeling labs",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "182",
+          "name": "Multi agents and agentic",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "183",
+          "name": "Claude MCP Server directory",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "184",
+          "name": "Go1 customers",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "185",
+          "name": "People to connect in valley",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "186",
+          "name": "protein",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "187",
+          "name": "For Content Creators",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "188",
+          "name": "Transformer explainer",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "189",
+          "name": "VC list",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "190",
+          "name": "bootcamp",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "191",
+          "name": "MyGitRep",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "192",
+          "name": "AI lectures",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "193",
+          "name": "n8n",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "194",
+          "name": "Race results",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "195",
+          "name": "Slack",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "196",
+          "name": "Other reads",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "197",
+          "name": "hackathon",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "198",
+          "name": "Psychology",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "199",
+          "name": "Phenom",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "200",
+          "name": "RL",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "201",
+          "name": "My books",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "202",
+          "name": "Degreed",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "203",
+          "name": "Passwords",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "204",
+          "name": "hackathon",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "205",
+          "name": "Daily updates",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "206",
+          "name": "Sagar paul",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "207",
+          "name": "sLACK",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "208",
+          "name": "OpenAI org",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "209",
+          "name": "GTM teams",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "210",
+          "name": "Phenom",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "211",
+          "name": "Motivation",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "212",
+          "name": "Idea to app",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "213",
+          "name": "Espruino",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "214",
+          "name": "New collection",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "215",
+          "name": "e2b",
+          "type": "folder"
+        },
+        {
+          "children": [],
+          "date_added": "1762007202822999",
+          "date_modified": "1762007202822999",
+          "id": "216",
+          "name": "Projects",
+          "type": "folder"
+        }
+      ],
+      "date_added": "1762007202822999",
+      "date_modified": "1762007202822999",
+      "id": "1",
+      "name": "Bookmarks bar",
+      "type": "folder"
+    },
+    "other": {
+      "children": [],
+      "date_added": "1762007202822999",
+      "date_modified": "1762007202822999",
+      "id": "2",
+      "name": "Other bookmarks",
+      "type": "folder"
+    },
+    "synced": {
+      "children": [],
+      "date_added": "1762007202822999",
+      "date_modified": "1762007202822999",
+      "id": "3",
+      "name": "Mobile bookmarks",
+      "type": "folder"
+    }
+  },
+  "version": 1
+}
